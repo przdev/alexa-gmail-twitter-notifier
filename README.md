@@ -1,1 +1,1 @@
-# alexa fmail,twitter notifire
+# alexa gmail,twitter notifire
